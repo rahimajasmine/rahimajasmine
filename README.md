@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahima Jasmine</h1>
 <h3 align="center">Iam a mechanical engineer passionate about coding and developing new projects which helps to interrelate both coding and core related projects.</h3>
 
-- 🔭 I’m currently working on **Machine vibration analysis and alerting system for Cognizant technologies, Sholinganalur**
+- 🔭 I’m currently working on **Machine vibration analysis and alerting system for Cognizant technologies,Sholinganalur**
 
 - 🌱 I’m currently learning **Python and artificial neural network**
 
